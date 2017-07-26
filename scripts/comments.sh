@@ -128,7 +128,6 @@ if [ $# -gt 1 ] && [ -f $2 ]; then
     fi
 else
     source_file=${1#${LEETCODE_URL}}
-    source_file=${source_file::${#source_file}-1}
     source_file=`echo $source_file | awk -F '-' '{for (i=1; i<=NF; i++) printf("%s", toupper(substr($i,1,1)) substr($i,2)) }'`${FILE_EXT}
 
     if [ ! -f ${source_file} ]; then
