@@ -9,3 +9,4 @@ LeetCode
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Python](./algorithms/python/FirstMissingPositive.py)|Hard|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Python](./algorithms/python/TwoSumIiInputArrayIsSorted.py)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits) | [Python](./algorithms/python/CountingBit.py)|Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](./algorithms/java/LongestPalindromicSubstring.java)|Medium|
