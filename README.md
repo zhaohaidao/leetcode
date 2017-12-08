@@ -11,3 +11,4 @@ LeetCode
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits) | [Python](./algorithms/python/CountingBit.py)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](./algorithms/java/LongestPalindromicSubstring.java)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [Java](./algorithms/java/LongestPalindromicSubSequence.java)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Java](./algorithms/java/SpiralMatrix.java)|Medium|
