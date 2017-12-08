@@ -13,4 +13,5 @@ LeetCode
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [Java](./algorithms/java/LongestPalindromicSubSequence.java)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [Java](./algorithms/java/SpiralMatrix.java)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [Java](./algorithms/java/SpiralMatrixII.java)|Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Java](./algorithms/java/MergeTwoSortedList.java)|Easy|
 
