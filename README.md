@@ -16,4 +16,5 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Java](./algorithms/java/MergeTwoSortedList.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./algorithms/java/MergeSortedArray.java)|Easy|
 |148|[Sorted List](https://leetcode.com/problems/sort-list) | [Java](./algorithms/java/SortedList.java)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](./algorithms/java/SortColors.java)|Medium|
 
