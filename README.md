@@ -20,4 +20,5 @@ LeetCode
 |102|[BinaryTree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Java](./algorithms/java/BinaryTreeLevelOrderTraversal.java)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./algorithms/java/SymmetricTree.java)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree) | [Java](./algorithms/java/SameTree.java)|Easy|
+|374|[Guess Game](https://leetcode.com/problems/guess-game) | [Java](./algorithms/java/GuessGame.java)|Easy|
 
