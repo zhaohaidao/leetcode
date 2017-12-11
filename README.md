@@ -19,4 +19,5 @@ LeetCode
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](./algorithms/java/SortColors.java)|Medium|
 |102|[BinaryTree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Java](./algorithms/java/BinaryTreeLevelOrderTraversal.java)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./algorithms/java/SymmetricTree.java)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree) | [Java](./algorithms/java/SameTree.java)|Easy|
 
