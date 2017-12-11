@@ -23,4 +23,5 @@ LeetCode
 |374|[Guess Game](https://leetcode.com/problems/guess-game) | [Java](./algorithms/java/GuessGame.java)|Easy|
 |78|[Subsets](https://leetcode.com/problems/subsets) | [Java](./algorithms/java/Subsets.java)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii) | [Java](./algorithms/java/SubsetsII.java)|Medium|
+|77|[Combinations](https://leetcode.com/problems/combinations) | [Java](./algorithms/java/Combinations.java)|Medium|
 
