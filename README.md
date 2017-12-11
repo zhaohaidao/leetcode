@@ -28,4 +28,5 @@ LeetCode
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Java](./algorithms/java/CombinationSumII.java)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | [Java](./algorithms/java/CombinationSumIII.java)|Medium|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [Java](./algorithms/java/CombinationSumIV.java)|Medium|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list) | [Java](./algorithms/java/RotateList.java)|Medium|
 
