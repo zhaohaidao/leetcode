@@ -25,4 +25,7 @@ LeetCode
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii) | [Java](./algorithms/java/SubsetsII.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations) | [Java](./algorithms/java/Combinations.java)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](./algorithms/java/CombinationSum.java)|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Java](./algorithms/java/CombinationSumII.java)|Medium|
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | [Java](./algorithms/java/CombinationSumIII.java)|Medium|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [Java](./algorithms/java/CombinationSumIV.java)|Medium|
 
